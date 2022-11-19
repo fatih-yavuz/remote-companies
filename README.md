@@ -13,6 +13,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before sending a pull
 * [Aha!](https://www.aha.io/careers) - Aha! is a product roadmap software that helps product managers and marketers create visual roadmaps.
 * [InVision](https://www.invisionapp.com/careers) - InVision is a prototyping and collaboration platform that helps designers and developers build and test products.
 * [Kinsta](https://kinsta.com/careers/) - Kinsta is a managed WordPress hosting provider that helps users manage their WordPress websites.
-* [Lunchclub](https://www.lunchclub.com/careers) - Lunchclub is a networking app that helps users connect with other professionals.
+* [Lunchclub](https://jobs.lever.co/lunchclub) - Lunchclub is a networking app that helps users connect with other professionals.
 * [Paktor](https://www.gopaktor.com/#/career) - Paktor is a dating app that helps users find their perfect match.
 * [Scandit](https://www.scandit.com/careers) - Scandit is a barcode scanning software that helps users scan barcodes.
