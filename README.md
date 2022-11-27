@@ -11,6 +11,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before sending a pull
 ## Companies
 * [10up](https://10up.com/careers/) - 10up is a full-service digital agency that provides strategy, design, and engineering services to help organizations of all sizes and industries build better websites and digital products.
 * [Aha!](https://www.aha.io/careers) - Aha! is a product roadmap software that helps product managers and marketers create visual roadmaps.
+* [Bayzat](https://www.bayzat.com/careers) - Bayzat is the work life platform that benefits everyone, makes automated HR, payroll, employee benefits and insurance a possibility for all businesses in the UAE
 * [InVision](https://www.invisionapp.com/careers) - InVision is a prototyping and collaboration platform that helps designers and developers build and test products.
 * [Kinsta](https://kinsta.com/careers/) - Kinsta is a managed WordPress hosting provider that helps users manage their WordPress websites.
 * [Lunchclub](https://jobs.lever.co/lunchclub) - Lunchclub is a networking app that helps users connect with other professionals.
